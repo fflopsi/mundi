@@ -5,9 +5,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mundi\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-22 13:48+0200\n"
+"POT-Creation-Date: 2026-10-17 19:04+0200\n"
 "PO-Revision-Date: 2026-09-09 03:06-0700\n"
-"Last-Translator: Jacob Padgett <74161959+jpadgett314@users.noreply.github.com>\n"
+"Last-Translator: Jacob Padgett "
+"<74161959+jpadgett314@users.noreply.github.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -103,7 +104,7 @@ msgstr "バーデン＝ヴュルテンベルク州"
 msgid "Bavaria"
 msgstr "バイエルン州"
 
-#: src/region_names.rs:44 src/region_names.rs:64 src/region_names.rs:684
+#: src/region_names.rs:44 src/region_names.rs:64 src/region_names.rs:713
 msgid "Berlin"
 msgstr "ベルリン"
 
@@ -211,2129 +212,2229 @@ msgstr "シュトゥットガルト"
 msgid "Wiesbaden"
 msgstr "ヴィースバーデン"
 
-#: src/region_names.rs:83 src/region_names.rs:118
+#: src/region_names.rs:83
+msgid "Aargau"
+msgstr ""
+
+#: src/region_names.rs:84
+msgid "Appenzell Ausserrhoden"
+msgstr ""
+
+#: src/region_names.rs:85
+msgid "Appenzell Innerrhoden"
+msgstr ""
+
+#: src/region_names.rs:86
+msgid "Basel-Landschaft"
+msgstr ""
+
+#: src/region_names.rs:87
+msgid "Basel-Stadt"
+msgstr ""
+
+#: src/region_names.rs:88 src/region_names.rs:741
+msgid "Bern"
+msgstr "ベルン"
+
+#: src/region_names.rs:89
+msgid "Fribourg"
+msgstr ""
+
+#: src/region_names.rs:90
+msgid "Geneva"
+msgstr ""
+
+#: src/region_names.rs:91
+msgid "Glarus"
+msgstr ""
+
+#: src/region_names.rs:92
+msgid "Graubünden"
+msgstr ""
+
+#: src/region_names.rs:93
+msgid "Jura"
+msgstr ""
+
+#: src/region_names.rs:94
+msgid "Lucerne"
+msgstr ""
+
+#: src/region_names.rs:95
+msgid "Neuchâtel"
+msgstr ""
+
+#: src/region_names.rs:96
+msgid "Nidwalden"
+msgstr ""
+
+#: src/region_names.rs:97
+msgid "Obwalden"
+msgstr ""
+
+#: src/region_names.rs:98
+msgid "Schaffhausen"
+msgstr ""
+
+#: src/region_names.rs:99
+msgid "Schwyz"
+msgstr ""
+
+#: src/region_names.rs:100
+msgid "Solothurn"
+msgstr ""
+
+#: src/region_names.rs:101
+msgid "St. Gallen"
+msgstr ""
+
+#: src/region_names.rs:102
+msgid "Thurgau"
+msgstr ""
+
+#: src/region_names.rs:103
+msgid "Ticino"
+msgstr ""
+
+#: src/region_names.rs:104
+msgid "Uri"
+msgstr ""
+
+#: src/region_names.rs:105
+msgid "Valais"
+msgstr ""
+
+#: src/region_names.rs:106
+msgid "Vaud"
+msgstr ""
+
+#: src/region_names.rs:107
+msgid "Zug"
+msgstr ""
+
+#: src/region_names.rs:108
+msgid "Zurich"
+msgstr ""
+
+#: src/region_names.rs:112 src/region_names.rs:147
 msgid "Andalusia"
 msgstr "アンダルシア州"
 
-#: src/region_names.rs:84 src/region_names.rs:123
+#: src/region_names.rs:113 src/region_names.rs:152
 msgid "Aragon"
 msgstr "アラゴン州"
 
-#: src/region_names.rs:85 src/region_names.rs:112 src/region_names.rs:131
+#: src/region_names.rs:114 src/region_names.rs:141 src/region_names.rs:160
 msgid "Asturias"
 msgstr "アストゥリアス"
 
-#: src/region_names.rs:86 src/region_names.rs:113 src/region_names.rs:148
+#: src/region_names.rs:115 src/region_names.rs:142 src/region_names.rs:177
 msgid "Balearic Islands"
 msgstr "バレアレス諸島"
 
-#: src/region_names.rs:87 src/region_names.rs:115
+#: src/region_names.rs:116 src/region_names.rs:144
 msgid "Canary Islands"
 msgstr "カナリア諸島"
 
-#: src/region_names.rs:88 src/region_names.rs:116 src/region_names.rs:135
+#: src/region_names.rs:117 src/region_names.rs:145 src/region_names.rs:164
 msgid "Cantabria"
 msgstr "カンタブリア州"
 
-#: src/region_names.rs:89 src/region_names.rs:119
+#: src/region_names.rs:118 src/region_names.rs:148
 msgid "Castilla-La Mancha"
 msgstr "カスティーリャ・ラ・マンチャ州"
 
-#: src/region_names.rs:90 src/region_names.rs:121
+#: src/region_names.rs:119 src/region_names.rs:150
 msgid "Castile and León"
 msgstr "カスティーリャ・イ・レオン州"
 
-#: src/region_names.rs:91 src/region_names.rs:105
+#: src/region_names.rs:120 src/region_names.rs:134
 msgid "Catalonia"
 msgstr "カタルーニャ州"
 
-#: src/region_names.rs:92 src/region_names.rs:106
+#: src/region_names.rs:121 src/region_names.rs:135
 msgid "Ceuta"
 msgstr "セウタ"
 
-#: src/region_names.rs:93 src/region_names.rs:110
+#: src/region_names.rs:122 src/region_names.rs:139
 msgid "Extremadura"
 msgstr "エストレマドゥーラ州"
 
-#: src/region_names.rs:94 src/region_names.rs:117 src/registry.rs:109
+#: src/region_names.rs:123 src/region_names.rs:146 src/registry.rs:109
 msgid "Galicia"
 msgstr "ガリシア州"
 
-#: src/region_names.rs:95 src/region_names.rs:107 src/region_names.rs:150
+#: src/region_names.rs:124 src/region_names.rs:136 src/region_names.rs:179
 msgid "La Rioja"
 msgstr "ラ・リオハ"
 
 # マドリード（市）とマドリード州に対して使われます
-#: src/region_names.rs:96 src/region_names.rs:108 src/region_names.rs:155
-#: src/region_names.rs:710
+#: src/region_names.rs:125 src/region_names.rs:137 src/region_names.rs:184
+#: src/region_names.rs:739
 msgid "Madrid"
 msgstr "マドリード"
 
-#: src/region_names.rs:97 src/region_names.rs:109
+#: src/region_names.rs:126 src/region_names.rs:138
 msgid "Melilla"
 msgstr "メリリャ"
 
 # ムルシア（市）とマルシア州に対して使われます
-#: src/region_names.rs:98 src/region_names.rs:111 src/region_names.rs:156
+#: src/region_names.rs:127 src/region_names.rs:140 src/region_names.rs:185
 msgid "Murcia"
 msgstr "ムルシア"
 
-#: src/region_names.rs:99 src/region_names.rs:114 src/region_names.rs:158
+#: src/region_names.rs:128 src/region_names.rs:143 src/region_names.rs:187
 msgid "Navarre"
 msgstr "ナバラ"
 
-#: src/region_names.rs:100 src/region_names.rs:122
+#: src/region_names.rs:129 src/region_names.rs:151
 msgid "Basque Country"
 msgstr "バスク州"
 
 # バレンシア（市）、バレンシア県、バレンシア州に対して使われます。
-#: src/region_names.rs:101 src/region_names.rs:120 src/region_names.rs:170
+#: src/region_names.rs:130 src/region_names.rs:149 src/region_names.rs:199
 msgid "Valencia"
 msgstr "バレンシア"
 
 # バルセロナ市とバルセロナ県に対して使われます
-#: src/region_names.rs:105 src/region_names.rs:133
+#: src/region_names.rs:134 src/region_names.rs:162
 msgid "Barcelona"
 msgstr "バルセロナ"
 
-#: src/region_names.rs:107
+#: src/region_names.rs:136
 msgid "Logroño"
 msgstr "ログローニョ"
 
-#: src/region_names.rs:110
+#: src/region_names.rs:139
 msgid "Mérida"
 msgstr "メリダ"
 
-#: src/region_names.rs:112
+#: src/region_names.rs:141
 msgid "Oviedo"
 msgstr "オビエド"
 
-#: src/region_names.rs:113
+#: src/region_names.rs:142
 msgid "Palma"
 msgstr "パルマ"
 
-#: src/region_names.rs:114
+#: src/region_names.rs:143
 msgid "Pamplona"
 msgstr "パンプローナ"
 
 # 市と県に対して使われます
-#: src/region_names.rs:115 src/region_names.rs:163
+#: src/region_names.rs:144 src/region_names.rs:192
 msgid "Santa Cruz de Tenerife"
 msgstr "サンタ・クルス・デ・テネリフェ"
 
-#: src/region_names.rs:116
+#: src/region_names.rs:145
 msgid "Santander"
 msgstr "サンタンデール"
 
-#: src/region_names.rs:117
+#: src/region_names.rs:146
 msgid "Santiago de Compostela"
 msgstr "サンティアゴ・デ・コンポステーラ"
 
 # 市であるセビリアとセビリア県に対して使われます
-#: src/region_names.rs:118 src/region_names.rs:165
+#: src/region_names.rs:147 src/region_names.rs:194
 msgid "Seville"
 msgstr "セビリア"
 
 # トレド市とトレド県に対して使われます
-#: src/region_names.rs:119 src/region_names.rs:169
+#: src/region_names.rs:148 src/region_names.rs:198
 msgid "Toledo"
 msgstr "トレド"
 
 # バリャドリッド市とバリャドリッド県に対して使われます
-#: src/region_names.rs:121 src/region_names.rs:171
+#: src/region_names.rs:150 src/region_names.rs:200
 msgid "Valladolid"
 msgstr "バリャドリッド"
 
-#: src/region_names.rs:122
+#: src/region_names.rs:151
 msgid "Vitoria-Gasteiz"
 msgstr "ビトリア＝ガステイス"
 
 # サラゴサ市とサラゴサ県に対して使われます
-#: src/region_names.rs:123 src/region_names.rs:174
+#: src/region_names.rs:152 src/region_names.rs:203
 msgid "Zaragoza"
 msgstr "サラゴサ"
 
-#: src/region_names.rs:127 src/region_names.rs:636
+#: src/region_names.rs:156 src/region_names.rs:665
 msgid "A Coruña"
 msgstr "ア・コルーニャ県"
 
-#: src/region_names.rs:128
+#: src/region_names.rs:157
 msgid "Albacete"
 msgstr "アルバセーテ県"
 
-#: src/region_names.rs:129
+#: src/region_names.rs:158
 msgid "Alicante"
 msgstr "アリカンテ県"
 
-#: src/region_names.rs:130
+#: src/region_names.rs:159
 msgid "Almería"
 msgstr "アルメリア県"
 
-#: src/region_names.rs:132
+#: src/region_names.rs:161
 msgid "Badajoz"
 msgstr "バダホス県"
 
-#: src/region_names.rs:134
+#: src/region_names.rs:163
 msgid "Burgos"
 msgstr "ブルゴス県"
 
-#: src/region_names.rs:136
+#: src/region_names.rs:165
 msgid "Castellón"
 msgstr "カステリョン県"
 
-#: src/region_names.rs:137
+#: src/region_names.rs:166
 msgid "Ciudad Real"
 msgstr "シウダー・レアル県"
 
-#: src/region_names.rs:138
+#: src/region_names.rs:167
 msgid "Cuenca"
 msgstr "クエンカ県"
 
-#: src/region_names.rs:139
+#: src/region_names.rs:168
 msgid "Cáceres"
 msgstr "カセレス県"
 
-#: src/region_names.rs:140
+#: src/region_names.rs:169
 msgid "Cádiz"
 msgstr "カディス県"
 
-#: src/region_names.rs:141
+#: src/region_names.rs:170
 msgid "Córdoba"
 msgstr "コルドバ県"
 
-#: src/region_names.rs:142
+#: src/region_names.rs:171
 msgid "Girona"
 msgstr "ジローナ県"
 
-#: src/region_names.rs:143
+#: src/region_names.rs:172
 msgid "Granada"
 msgstr "グラナダ県"
 
-#: src/region_names.rs:144
+#: src/region_names.rs:173
 msgid "Guadalajara"
 msgstr "グアダラハラ県"
 
-#: src/region_names.rs:145
+#: src/region_names.rs:174
 msgid "Gipuzkoa"
 msgstr "ギプスコア県"
 
-#: src/region_names.rs:146
+#: src/region_names.rs:175
 msgid "Huelva"
 msgstr "ウエルバ県"
 
-#: src/region_names.rs:147
+#: src/region_names.rs:176
 msgid "Huesca"
 msgstr "ウエスカ県"
 
-#: src/region_names.rs:149
+#: src/region_names.rs:178
 msgid "Jaén"
 msgstr "ハエン県"
 
-#: src/region_names.rs:151
+#: src/region_names.rs:180
 msgid "Las Palmas"
 msgstr "ラス・パルマス県"
 
-#: src/region_names.rs:152
+#: src/region_names.rs:181
 msgid "León"
 msgstr "レオン県"
 
-#: src/region_names.rs:153
+#: src/region_names.rs:182
 msgid "Lleida"
 msgstr "リェイダ県"
 
-#: src/region_names.rs:154 src/region_names.rs:637
+#: src/region_names.rs:183 src/region_names.rs:666
 msgid "Lugo"
 msgstr "ルーゴ県"
 
-#: src/region_names.rs:157
+#: src/region_names.rs:186
 msgid "Málaga"
 msgstr "マラガ県"
 
-#: src/region_names.rs:159 src/region_names.rs:638
+#: src/region_names.rs:188 src/region_names.rs:667
 msgid "Ourense"
 msgstr "オウレンセ県"
 
-#: src/region_names.rs:160
+#: src/region_names.rs:189
 msgid "Palencia"
 msgstr "パレンシア県"
 
-#: src/region_names.rs:161 src/region_names.rs:639
+#: src/region_names.rs:190 src/region_names.rs:668
 msgid "Pontevedra"
 msgstr "ポンテベドラ県"
 
-#: src/region_names.rs:162
+#: src/region_names.rs:191
 msgid "Salamanca"
 msgstr "サラマンカ県"
 
-#: src/region_names.rs:164
+#: src/region_names.rs:193
 msgid "Segovia"
 msgstr "セゴビア県"
 
-#: src/region_names.rs:166
+#: src/region_names.rs:195
 msgid "Soria"
 msgstr "ソリア県"
 
-#: src/region_names.rs:167
+#: src/region_names.rs:196
 msgid "Tarragona"
 msgstr "タラゴナ県"
 
-#: src/region_names.rs:168
+#: src/region_names.rs:197
 msgid "Teruel"
 msgstr "テルエル県"
 
-#: src/region_names.rs:172
+#: src/region_names.rs:201
 msgid "Biscay"
 msgstr "ビスカヤ県"
 
-#: src/region_names.rs:173
+#: src/region_names.rs:202
 msgid "Zamora"
 msgstr "サモーラ県"
 
-#: src/region_names.rs:175
+#: src/region_names.rs:204
 msgid "Álava"
 msgstr "アラバ県"
 
-#: src/region_names.rs:176
+#: src/region_names.rs:205
 msgid "Ávila"
 msgstr "アビラ県"
 
-#: src/region_names.rs:180
+#: src/region_names.rs:209
 msgid "Africa"
 msgstr "アフリカ"
 
-#: src/region_names.rs:181
+#: src/region_names.rs:210
 msgid "Asia"
 msgstr "アジア"
 
-#: src/region_names.rs:182
+#: src/region_names.rs:211
 msgid "Europe"
 msgstr "ヨーロッパ"
 
-#: src/region_names.rs:183
+#: src/region_names.rs:212
 msgid "North America"
 msgstr "北アメリカ"
 
-#: src/region_names.rs:184
+#: src/region_names.rs:213
 msgid "Oceania"
 msgstr "オセアニア"
 
-#: src/region_names.rs:185
+#: src/region_names.rs:214
 msgid "South America"
 msgstr "南アメリカ"
 
-#: src/region_names.rs:189 src/region_names.rs:667
+#: src/region_names.rs:218 src/region_names.rs:696
 msgid "Albania"
 msgstr "アルバニア"
 
-#: src/region_names.rs:190 src/region_names.rs:668
+#: src/region_names.rs:219 src/region_names.rs:697
 msgid "Andorra"
 msgstr "アンドラ"
 
-#: src/region_names.rs:191 src/region_names.rs:351 src/region_names.rs:669
+#: src/region_names.rs:220 src/region_names.rs:380 src/region_names.rs:698
 msgid "Armenia"
 msgstr "アルメニア"
 
-#: src/region_names.rs:192 src/region_names.rs:670
+#: src/region_names.rs:221 src/region_names.rs:699
 msgid "Austria"
 msgstr "オーストリア"
 
-#: src/region_names.rs:193 src/region_names.rs:352 src/region_names.rs:671
+#: src/region_names.rs:222 src/region_names.rs:381 src/region_names.rs:700
 msgid "Azerbaijan"
 msgstr "アゼルバイジャン"
 
-#: src/region_names.rs:194 src/region_names.rs:672
+#: src/region_names.rs:223 src/region_names.rs:701
 msgid "Belarus"
 msgstr "ベラルーシ"
 
-#: src/region_names.rs:195 src/region_names.rs:673
+#: src/region_names.rs:224 src/region_names.rs:702
 msgid "Belgium"
 msgstr "ベルギー"
 
-#: src/region_names.rs:196 src/region_names.rs:674
+#: src/region_names.rs:225 src/region_names.rs:703
 msgid "Bosnia and Herzegovina"
 msgstr "ボスニア・ヘルツェゴビナ"
 
-#: src/region_names.rs:197 src/region_names.rs:675
+#: src/region_names.rs:226 src/region_names.rs:704
 msgid "Bulgaria"
 msgstr "ブルガリア"
 
-#: src/region_names.rs:198 src/region_names.rs:676
+#: src/region_names.rs:227 src/region_names.rs:705
 msgid "Croatia"
 msgstr "クロアチア"
 
-#: src/region_names.rs:199 src/region_names.rs:359 src/region_names.rs:677
+#: src/region_names.rs:228 src/region_names.rs:388 src/region_names.rs:706
 msgid "Cyprus"
 msgstr "キプロス"
 
-#: src/region_names.rs:200 src/region_names.rs:678
+#: src/region_names.rs:229 src/region_names.rs:707
 msgid "Czech Republic"
 msgstr "チェコ"
 
-#: src/region_names.rs:201 src/region_names.rs:679
+#: src/region_names.rs:230 src/region_names.rs:708
 msgid "Denmark"
 msgstr "デンマーク"
 
-#: src/region_names.rs:202 src/region_names.rs:680
+#: src/region_names.rs:231 src/region_names.rs:709
 msgid "Estonia"
 msgstr "エストニア"
 
-#: src/region_names.rs:203 src/region_names.rs:681
+#: src/region_names.rs:232 src/region_names.rs:710
 msgid "Finland"
 msgstr "フィンランド"
 
-#: src/region_names.rs:204 src/region_names.rs:682 src/registry.rs:329
+#: src/region_names.rs:233 src/region_names.rs:711 src/registry.rs:341
 msgid "France"
 msgstr "フランス"
 
 # アメリカのジョージア州と国であるジョージアに対して使われます
-#: src/region_names.rs:205 src/region_names.rs:361 src/region_names.rs:508
-#: src/region_names.rs:683
+#: src/region_names.rs:234 src/region_names.rs:390 src/region_names.rs:537
+#: src/region_names.rs:712
 msgid "Georgia"
 msgstr "ジョージア"
 
-#: src/region_names.rs:206 src/region_names.rs:684 src/registry.rs:334
+#: src/region_names.rs:235 src/region_names.rs:713 src/registry.rs:346
 msgid "Germany"
 msgstr "ドイツ"
 
-#: src/region_names.rs:207 src/region_names.rs:685
+#: src/region_names.rs:236 src/region_names.rs:714
 msgid "Greece"
 msgstr "ギリシャ"
 
-#: src/region_names.rs:208 src/region_names.rs:686
+#: src/region_names.rs:237 src/region_names.rs:715
 msgid "Hungary"
 msgstr "ハンガリー"
 
-#: src/region_names.rs:209 src/region_names.rs:687
+#: src/region_names.rs:238 src/region_names.rs:716
 msgid "Iceland"
 msgstr "アイスランド"
 
-#: src/region_names.rs:210 src/region_names.rs:688
+#: src/region_names.rs:239 src/region_names.rs:717
 msgid "Ireland"
 msgstr "アイルランド"
 
-#: src/region_names.rs:211 src/region_names.rs:689 src/registry.rs:344
+#: src/region_names.rs:240 src/region_names.rs:718 src/registry.rs:361
 msgid "Italy"
 msgstr "イタリア"
 
-#: src/region_names.rs:212 src/region_names.rs:690
+#: src/region_names.rs:241 src/region_names.rs:719
 msgid "Kosovo"
 msgstr "コソボ"
 
-#: src/region_names.rs:213 src/region_names.rs:691
+#: src/region_names.rs:242 src/region_names.rs:720
 msgid "Latvia"
 msgstr "ラトビア"
 
-#: src/region_names.rs:214 src/region_names.rs:692
+#: src/region_names.rs:243 src/region_names.rs:721
 msgid "Liechtenstein"
 msgstr "リヒテンシュタイン"
 
-#: src/region_names.rs:215 src/region_names.rs:693
+#: src/region_names.rs:244 src/region_names.rs:722
 msgid "Lithuania"
 msgstr "リトアニア"
 
-#: src/region_names.rs:216 src/region_names.rs:694
+#: src/region_names.rs:245 src/region_names.rs:723
 msgid "Luxembourg"
 msgstr "ルクセンブルク"
 
-#: src/region_names.rs:217 src/region_names.rs:695
+#: src/region_names.rs:246 src/region_names.rs:724
 msgid "Malta"
 msgstr "マルタ"
 
-#: src/region_names.rs:218 src/region_names.rs:696
+#: src/region_names.rs:247 src/region_names.rs:725
 msgid "Moldova"
 msgstr "モルドバ"
 
-#: src/region_names.rs:219 src/region_names.rs:697
+#: src/region_names.rs:248 src/region_names.rs:726
 msgid "Monaco"
 msgstr "モナコ"
 
-#: src/region_names.rs:220 src/region_names.rs:698
+#: src/region_names.rs:249 src/region_names.rs:727
 msgid "Montenegro"
 msgstr "モンテネグロ"
 
-#: src/region_names.rs:221 src/region_names.rs:699
+#: src/region_names.rs:250 src/region_names.rs:728
 msgid "Netherlands"
 msgstr "オランダ"
 
-#: src/region_names.rs:222 src/region_names.rs:700
+#: src/region_names.rs:251 src/region_names.rs:729
 msgid "North Macedonia"
 msgstr "北マケドニア"
 
-#: src/region_names.rs:223 src/region_names.rs:701
+#: src/region_names.rs:252 src/region_names.rs:730
 msgid "Norway"
 msgstr "ノルウェー"
 
-#: src/region_names.rs:224 src/region_names.rs:702 src/registry.rs:354
+#: src/region_names.rs:253 src/region_names.rs:731 src/registry.rs:371
 msgid "Poland"
 msgstr "ポーランド"
 
-#: src/region_names.rs:225 src/region_names.rs:703 src/registry.rs:359
+#: src/region_names.rs:254 src/region_names.rs:732 src/registry.rs:376
 msgid "Portugal"
 msgstr "ポルトガル"
 
-#: src/region_names.rs:226 src/region_names.rs:704
+#: src/region_names.rs:255 src/region_names.rs:733
 msgid "Romania"
 msgstr "ルーマニア"
 
-#: src/region_names.rs:227 src/region_names.rs:385 src/region_names.rs:705
+#: src/region_names.rs:256 src/region_names.rs:414 src/region_names.rs:734
 msgid "Russia"
 msgstr "ロシア"
 
-#: src/region_names.rs:228 src/region_names.rs:706
+#: src/region_names.rs:257 src/region_names.rs:735
 msgid "San Marino"
 msgstr "サンマリノ"
 
-#: src/region_names.rs:229 src/region_names.rs:707
+#: src/region_names.rs:258 src/region_names.rs:736
 msgid "Serbia"
 msgstr "セルビア"
 
-#: src/region_names.rs:230 src/region_names.rs:708
+#: src/region_names.rs:259 src/region_names.rs:737
 msgid "Slovakia"
 msgstr "スロバキア"
 
-#: src/region_names.rs:231 src/region_names.rs:709
+#: src/region_names.rs:260 src/region_names.rs:738
 msgid "Slovenia"
 msgstr "スロベニア"
 
-#: src/region_names.rs:232 src/region_names.rs:710 src/registry.rs:364
+#: src/region_names.rs:261 src/region_names.rs:739 src/registry.rs:381
 msgid "Spain"
 msgstr "スペイン"
 
-#: src/region_names.rs:233 src/region_names.rs:711
+#: src/region_names.rs:262 src/region_names.rs:740
 msgid "Sweden"
 msgstr "スウェーデン"
 
-#: src/region_names.rs:234 src/region_names.rs:712
+#: src/region_names.rs:263 src/region_names.rs:741 src/registry.rs:351
 msgid "Switzerland"
 msgstr "スイス"
 
-#: src/region_names.rs:235 src/region_names.rs:394 src/region_names.rs:713
+#: src/region_names.rs:264 src/region_names.rs:423 src/region_names.rs:742
 msgid "Turkey"
 msgstr "トルコ"
 
-#: src/region_names.rs:236 src/region_names.rs:714
+#: src/region_names.rs:265 src/region_names.rs:743
 msgid "Ukraine"
 msgstr "ウクライナ"
 
-#: src/region_names.rs:237 src/region_names.rs:715
+#: src/region_names.rs:266 src/region_names.rs:744
 msgid "United Kingdom"
 msgstr "イギリス"
 
-#: src/region_names.rs:238 src/region_names.rs:716
+#: src/region_names.rs:267 src/region_names.rs:745
 msgid "Vatican City"
 msgstr "バチカン"
 
-#: src/region_names.rs:242
+#: src/region_names.rs:271
 msgid "Argentina"
 msgstr "アルゼンチン"
 
-#: src/region_names.rs:243
+#: src/region_names.rs:272
 msgid "Bahamas"
 msgstr "バハマ"
 
-#: src/region_names.rs:244
+#: src/region_names.rs:273
 msgid "Belize"
 msgstr "ベリーズ"
 
-#: src/region_names.rs:245
+#: src/region_names.rs:274
 msgid "Bolivia"
 msgstr "ボリビア"
 
-#: src/region_names.rs:246
+#: src/region_names.rs:275
 msgid "Brazil"
 msgstr "ブラジル"
 
-#: src/region_names.rs:247
+#: src/region_names.rs:276
 msgid "Canada"
 msgstr "カナダ"
 
-#: src/region_names.rs:248
+#: src/region_names.rs:277
 msgid "Chile"
 msgstr "チリ"
 
-#: src/region_names.rs:249
+#: src/region_names.rs:278
 msgid "Colombia"
 msgstr "コロンビア"
 
-#: src/region_names.rs:250
+#: src/region_names.rs:279
 msgid "Costa Rica"
 msgstr "コスタリカ"
 
-#: src/region_names.rs:251
+#: src/region_names.rs:280
 msgid "Cuba"
 msgstr "キューバ"
 
-#: src/region_names.rs:252
+#: src/region_names.rs:281
 msgid "Dominican Republic"
 msgstr "ドミニカ共和国"
 
-#: src/region_names.rs:253
+#: src/region_names.rs:282
 msgid "Ecuador"
 msgstr "エクアドル"
 
-#: src/region_names.rs:254
+#: src/region_names.rs:283
 msgid "El Salvador"
 msgstr "エルサルバドル"
 
-#: src/region_names.rs:255
+#: src/region_names.rs:284
 msgid "Guatemala"
 msgstr "グアテマラ"
 
-#: src/region_names.rs:256
+#: src/region_names.rs:285
 msgid "Guyana"
 msgstr "ガイアナ"
 
-#: src/region_names.rs:257
+#: src/region_names.rs:286
 msgid "Haiti"
 msgstr "ハイチ"
 
-#: src/region_names.rs:258
+#: src/region_names.rs:287
 msgid "Honduras"
 msgstr "ホンジュラス"
 
-#: src/region_names.rs:259
+#: src/region_names.rs:288
 msgid "Jamaica"
 msgstr "ジャマイカ"
 
-#: src/region_names.rs:260
+#: src/region_names.rs:289
 msgid "Mexico"
 msgstr "メキシコ"
 
-#: src/region_names.rs:261
+#: src/region_names.rs:290
 msgid "Nicaragua"
 msgstr "ニカラグア"
 
-#: src/region_names.rs:262
+#: src/region_names.rs:291
 msgid "Panama"
 msgstr "パナマ"
 
-#: src/region_names.rs:263
+#: src/region_names.rs:292
 msgid "Paraguay"
 msgstr "パラグアイ"
 
-#: src/region_names.rs:264
+#: src/region_names.rs:293
 msgid "Peru"
 msgstr "ペルー"
 
-#: src/region_names.rs:265
+#: src/region_names.rs:294
 msgid "Suriname"
 msgstr "スリナム"
 
-#: src/region_names.rs:266
+#: src/region_names.rs:295
 msgid "Trinidad and Tobago"
 msgstr "トリニダード・トバゴ"
 
-#: src/region_names.rs:267 src/registry.rs:369
+#: src/region_names.rs:296 src/registry.rs:386
 msgid "United States"
 msgstr "アメリカ合衆国"
 
-#: src/region_names.rs:268
+#: src/region_names.rs:297
 msgid "Uruguay"
 msgstr "ウルグアイ"
 
-#: src/region_names.rs:269
+#: src/region_names.rs:298
 msgid "Venezuela"
 msgstr "ベネズエラ"
 
-#: src/region_names.rs:273
+#: src/region_names.rs:302
 msgid "Algeria"
 msgstr "アルジェリア"
 
-#: src/region_names.rs:274
+#: src/region_names.rs:303
 msgid "Angola"
 msgstr "アンゴラ"
 
-#: src/region_names.rs:275
+#: src/region_names.rs:304
 msgid "Benin"
 msgstr "ベナン"
 
-#: src/region_names.rs:276
+#: src/region_names.rs:305
 msgid "Botswana"
 msgstr "ボツワナ"
 
-#: src/region_names.rs:277
+#: src/region_names.rs:306
 msgid "Burkina Faso"
 msgstr "ブルキナファソ"
 
-#: src/region_names.rs:278
+#: src/region_names.rs:307
 msgid "Burundi"
 msgstr "ブルンジ"
 
-#: src/region_names.rs:279
+#: src/region_names.rs:308
 msgid "Cameroon"
 msgstr "カメルーン"
 
-#: src/region_names.rs:280
+#: src/region_names.rs:309
 msgid "Cape Verde"
 msgstr "カーボベルデ"
 
-#: src/region_names.rs:281
+#: src/region_names.rs:310
 msgid "Central African Republic"
 msgstr "中央アフリカ共和国"
 
-#: src/region_names.rs:282
+#: src/region_names.rs:311
 msgid "Chad"
 msgstr "チャド"
 
-#: src/region_names.rs:283
+#: src/region_names.rs:312
 msgid "Comoros"
 msgstr "コモロ"
 
-#: src/region_names.rs:284
+#: src/region_names.rs:313
 msgid "Côte d'Ivoire"
 msgstr "コートジボワール"
 
-#: src/region_names.rs:287
+#: src/region_names.rs:316
 msgid "Democratic Republic of the Congo"
 msgstr "コンゴ民主共和国"
 
-#: src/region_names.rs:289
+#: src/region_names.rs:318
 msgid "Djibouti"
 msgstr "ジブチ"
 
-#: src/region_names.rs:290
+#: src/region_names.rs:319
 msgid "Egypt"
 msgstr "エジプト"
 
-#: src/region_names.rs:291
+#: src/region_names.rs:320
 msgid "Equatorial Guinea"
 msgstr "赤道ギニア"
 
-#: src/region_names.rs:292
+#: src/region_names.rs:321
 msgid "Eritrea"
 msgstr "エリトリア"
 
-#: src/region_names.rs:293
+#: src/region_names.rs:322
 msgid "Eswatini"
 msgstr "エスワティニ"
 
-#: src/region_names.rs:294
+#: src/region_names.rs:323
 msgid "Ethiopia"
 msgstr "エチオピア"
 
-#: src/region_names.rs:295
+#: src/region_names.rs:324
 msgid "Gabon"
 msgstr "ガボン"
 
-#: src/region_names.rs:296
+#: src/region_names.rs:325
 msgid "Gambia"
 msgstr "ガンビア"
 
-#: src/region_names.rs:297
+#: src/region_names.rs:326
 msgid "Ghana"
 msgstr "ガーナ"
 
-#: src/region_names.rs:298
+#: src/region_names.rs:327
 msgid "Guinea"
 msgstr "ギニア"
 
-#: src/region_names.rs:299
+#: src/region_names.rs:328
 msgid "Guinea-Bissau"
 msgstr "ギニアビサウ"
 
-#: src/region_names.rs:300
+#: src/region_names.rs:329
 msgid "Kenya"
 msgstr "ケニア"
 
-#: src/region_names.rs:301
+#: src/region_names.rs:330
 msgid "Lesotho"
 msgstr "レソト"
 
-#: src/region_names.rs:302
+#: src/region_names.rs:331
 msgid "Liberia"
 msgstr "リベリア"
 
-#: src/region_names.rs:303
+#: src/region_names.rs:332
 msgid "Libya"
 msgstr "リビア"
 
-#: src/region_names.rs:304
+#: src/region_names.rs:333
 msgid "Madagascar"
 msgstr "マダガスカル"
 
-#: src/region_names.rs:305
+#: src/region_names.rs:334
 msgid "Malawi"
 msgstr "マラウイ"
 
-#: src/region_names.rs:306
+#: src/region_names.rs:335
 msgid "Mali"
 msgstr "マリ"
 
-#: src/region_names.rs:307
+#: src/region_names.rs:336
 msgid "Mauritania"
 msgstr "モーリタニア"
 
-#: src/region_names.rs:308
+#: src/region_names.rs:337
 msgid "Mauritius"
 msgstr "モーリシャス"
 
-#: src/region_names.rs:309
+#: src/region_names.rs:338
 msgid "Morocco"
 msgstr "モロッコ"
 
-#: src/region_names.rs:310
+#: src/region_names.rs:339
 msgid "Mozambique"
 msgstr "モザンビーク"
 
-#: src/region_names.rs:311
+#: src/region_names.rs:340
 msgid "Namibia"
 msgstr "ナミビア"
 
-#: src/region_names.rs:312
+#: src/region_names.rs:341
 msgid "Niger"
 msgstr "ニジェール"
 
-#: src/region_names.rs:313
+#: src/region_names.rs:342
 msgid "Nigeria"
 msgstr "ナイジェリア"
 
-#: src/region_names.rs:314
+#: src/region_names.rs:343
 msgid "Republic of the Congo"
 msgstr "コンゴ共和国"
 
-#: src/region_names.rs:315
+#: src/region_names.rs:344
 msgid "Rwanda"
 msgstr "ルワンダ"
 
-#: src/region_names.rs:316
+#: src/region_names.rs:345
 msgid "São Tomé and Príncipe"
 msgstr "サントメ・プリンシペ"
 
-#: src/region_names.rs:317
+#: src/region_names.rs:346
 msgid "Senegal"
 msgstr "セネガル"
 
-#: src/region_names.rs:318
+#: src/region_names.rs:347
 msgid "Sierra Leone"
 msgstr "シエラレオネ"
 
-#: src/region_names.rs:319
+#: src/region_names.rs:348
 msgid "Somalia"
 msgstr "ソマリア"
 
-#: src/region_names.rs:320
+#: src/region_names.rs:349
 msgid "South Africa"
 msgstr "南アフリカ共和国"
 
-#: src/region_names.rs:321
+#: src/region_names.rs:350
 msgid "South Sudan"
 msgstr "南スーダン"
 
-#: src/region_names.rs:322
+#: src/region_names.rs:351
 msgid "Sudan"
 msgstr "スーダン"
 
-#: src/region_names.rs:323
+#: src/region_names.rs:352
 msgid "Tanzania"
 msgstr "タンザニア"
 
-#: src/region_names.rs:324
+#: src/region_names.rs:353
 msgid "Togo"
 msgstr "トーゴ"
 
-#: src/region_names.rs:325
+#: src/region_names.rs:354
 msgid "Tunisia"
 msgstr "チュニジア"
 
-#: src/region_names.rs:326
+#: src/region_names.rs:355
 msgid "Uganda"
 msgstr "ウガンダ"
 
-#: src/region_names.rs:327
+#: src/region_names.rs:356
 msgid "Western Sahara"
 msgstr "西サハラ"
 
-#: src/region_names.rs:328
+#: src/region_names.rs:357
 msgid "Zambia"
 msgstr "ザンビア"
 
-#: src/region_names.rs:329
+#: src/region_names.rs:358
 msgid "Zimbabwe"
 msgstr "ジンバブエ"
 
-#: src/region_names.rs:333
+#: src/region_names.rs:362
 msgid "Australia"
 msgstr "オーストラリア"
 
-#: src/region_names.rs:334
+#: src/region_names.rs:363
 msgid "Fiji"
 msgstr "フィジー"
 
-#: src/region_names.rs:335
+#: src/region_names.rs:364
 msgid "Kiribati"
 msgstr "キリバス"
 
-#: src/region_names.rs:336
+#: src/region_names.rs:365
 msgid "Marshall Islands"
 msgstr "マーシャル諸島"
 
-#: src/region_names.rs:337
+#: src/region_names.rs:366
 msgid "Micronesia"
 msgstr "ミクロネシア連邦"
 
-#: src/region_names.rs:338
+#: src/region_names.rs:367
 msgid "Nauru"
 msgstr "ナウル"
 
-#: src/region_names.rs:339
+#: src/region_names.rs:368
 msgid "New Zealand"
 msgstr "ニュージーランド"
 
-#: src/region_names.rs:340
+#: src/region_names.rs:369
 msgid "Palau"
 msgstr "パラオ"
 
-#: src/region_names.rs:341
+#: src/region_names.rs:370
 msgid "Papua New Guinea"
 msgstr "パプアニューギニア"
 
-#: src/region_names.rs:342
+#: src/region_names.rs:371
 msgid "Samoa"
 msgstr "サモア"
 
-#: src/region_names.rs:343
+#: src/region_names.rs:372
 msgid "Solomon Islands"
 msgstr "ソロモン諸島"
 
-#: src/region_names.rs:344
+#: src/region_names.rs:373
 msgid "Tonga"
 msgstr "トンガ"
 
-#: src/region_names.rs:345
+#: src/region_names.rs:374
 msgid "Tuvalu"
 msgstr "ツバル"
 
-#: src/region_names.rs:346
+#: src/region_names.rs:375
 msgid "Vanuatu"
 msgstr "バヌアツ"
 
-#: src/region_names.rs:350
+#: src/region_names.rs:379
 msgid "Afghanistan"
 msgstr "アフガニスタン"
 
-#: src/region_names.rs:353
+#: src/region_names.rs:382
 msgid "Bahrain"
 msgstr "バーレーン"
 
-#: src/region_names.rs:354
+#: src/region_names.rs:383
 msgid "Bangladesh"
 msgstr "バングラデシュ"
 
-#: src/region_names.rs:355
+#: src/region_names.rs:384
 msgid "Bhutan"
 msgstr "ブータン"
 
-#: src/region_names.rs:356
+#: src/region_names.rs:385
 msgid "Brunei"
 msgstr "ブルネイ"
 
-#: src/region_names.rs:357
+#: src/region_names.rs:386
 msgid "Cambodia"
 msgstr "カンボジア"
 
-#: src/region_names.rs:358
+#: src/region_names.rs:387
 msgid "China"
 msgstr "中国"
 
-#: src/region_names.rs:360
+#: src/region_names.rs:389
 msgid "East Timor"
 msgstr "東ティモール"
 
-#: src/region_names.rs:362 src/registry.rs:339
+#: src/region_names.rs:391 src/registry.rs:356
 msgid "India"
 msgstr "インド"
 
-#: src/region_names.rs:363
+#: src/region_names.rs:392
 msgid "Indonesia"
 msgstr "インドネシア"
 
-#: src/region_names.rs:364
+#: src/region_names.rs:393
 msgid "Iran"
 msgstr "イラン"
 
-#: src/region_names.rs:365
+#: src/region_names.rs:394
 msgid "Iraq"
 msgstr "イラク"
 
-#: src/region_names.rs:366
+#: src/region_names.rs:395
 msgid "Israel"
 msgstr "イスラエル"
 
-#: src/region_names.rs:367 src/registry.rs:349
+#: src/region_names.rs:396 src/registry.rs:366
 msgid "Japan"
 msgstr "日本"
 
-#: src/region_names.rs:368
+#: src/region_names.rs:397
 msgid "Jordan"
 msgstr "ヨルダン"
 
-#: src/region_names.rs:369
+#: src/region_names.rs:398
 msgid "Kazakhstan"
 msgstr "カザフスタン"
 
-#: src/region_names.rs:370
+#: src/region_names.rs:399
 msgid "Kuwait"
 msgstr "クウェート"
 
-#: src/region_names.rs:371
+#: src/region_names.rs:400
 msgid "Kyrgyzstan"
 msgstr "キルギス"
 
-#: src/region_names.rs:372
+#: src/region_names.rs:401
 msgid "Laos"
 msgstr "ラオス"
 
-#: src/region_names.rs:373
+#: src/region_names.rs:402
 msgid "Lebanon"
 msgstr "レバノン"
 
-#: src/region_names.rs:374
+#: src/region_names.rs:403
 msgid "Malaysia"
 msgstr "マレーシア"
 
-#: src/region_names.rs:375
+#: src/region_names.rs:404
 msgid "Maldives"
 msgstr "モルディブ"
 
-#: src/region_names.rs:376
+#: src/region_names.rs:405
 msgid "Mongolia"
 msgstr "モンゴル"
 
-#: src/region_names.rs:377
+#: src/region_names.rs:406
 msgid "Myanmar"
 msgstr "ミャンマー"
 
-#: src/region_names.rs:378
+#: src/region_names.rs:407
 msgid "Nepal"
 msgstr "ネパール"
 
-#: src/region_names.rs:379
+#: src/region_names.rs:408
 msgid "North Korea"
 msgstr "北朝鮮"
 
-#: src/region_names.rs:380
+#: src/region_names.rs:409
 msgid "Oman"
 msgstr "オマーン"
 
-#: src/region_names.rs:381
+#: src/region_names.rs:410
 msgid "Pakistan"
 msgstr "パキスタン"
 
-#: src/region_names.rs:382
+#: src/region_names.rs:411
 msgid "Palestine"
 msgstr "パレスチナ"
 
-#: src/region_names.rs:383
+#: src/region_names.rs:412
 msgid "Philippines"
 msgstr "フィリピン"
 
-#: src/region_names.rs:384
+#: src/region_names.rs:413
 msgid "Qatar"
 msgstr "カタール"
 
-#: src/region_names.rs:386
+#: src/region_names.rs:415
 msgid "Saudi Arabia"
 msgstr "サウジアラビア"
 
-#: src/region_names.rs:387
+#: src/region_names.rs:416
 msgid "Singapore"
 msgstr "シンガポール"
 
-#: src/region_names.rs:388
+#: src/region_names.rs:417
 msgid "South Korea"
 msgstr "韓国"
 
-#: src/region_names.rs:389
+#: src/region_names.rs:418
 msgid "Sri Lanka"
 msgstr "スリランカ"
 
-#: src/region_names.rs:390
+#: src/region_names.rs:419
 msgid "Syria"
 msgstr "シリア"
 
-#: src/region_names.rs:391
+#: src/region_names.rs:420
 msgid "Taiwan"
 msgstr "台湾"
 
-#: src/region_names.rs:392
+#: src/region_names.rs:421
 msgid "Tajikistan"
 msgstr "タジキスタン"
 
-#: src/region_names.rs:393
+#: src/region_names.rs:422
 msgid "Thailand"
 msgstr "タイ"
 
-#: src/region_names.rs:395
+#: src/region_names.rs:424
 msgid "Turkmenistan"
 msgstr "トルクメニスタン"
 
-#: src/region_names.rs:396
+#: src/region_names.rs:425
 msgid "United Arab Emirates"
 msgstr "アラブ首長国連邦"
 
-#: src/region_names.rs:397
+#: src/region_names.rs:426
 msgid "Uzbekistan"
 msgstr "ウズベキスタン"
 
-#: src/region_names.rs:398
+#: src/region_names.rs:427
 msgid "Vietnam"
 msgstr "ベトナム"
 
-#: src/region_names.rs:399
+#: src/region_names.rs:428
 msgid "Yemen"
 msgstr "イエメン"
 
-#: src/region_names.rs:405
+#: src/region_names.rs:434
 msgid "Andaman and Nicobar Islands"
 msgstr "アンダマン・ニコバル諸島"
 
-#: src/region_names.rs:407
+#: src/region_names.rs:436
 msgid "Andhra Pradesh"
 msgstr "アーンドラ・プラデーシュ州"
 
-#: src/region_names.rs:408
+#: src/region_names.rs:437
 msgid "Arunachal Pradesh"
 msgstr "アルナーチャル・プラデーシュ州"
 
-#: src/region_names.rs:409
+#: src/region_names.rs:438
 msgid "Assam"
 msgstr "アッサム州"
 
-#: src/region_names.rs:410
+#: src/region_names.rs:439
 msgid "Bihar"
 msgstr "ビハール州"
 
-#: src/region_names.rs:411
+#: src/region_names.rs:440
 msgid "Chandigarh"
 msgstr "チャンディーガル"
 
-#: src/region_names.rs:412
+#: src/region_names.rs:441
 msgid "Chhattisgarh"
 msgstr "チャッティースガル州"
 
-#: src/region_names.rs:415
+#: src/region_names.rs:444
 msgid "Dadra and Nagar Haveli and Daman and Diu"
 msgstr "ダードラー・ナガル・ハヴェーリーおよびダマン・ディーウ連邦直轄領"
 
-#: src/region_names.rs:417
+#: src/region_names.rs:446
 msgid "Delhi"
 msgstr "デリー"
 
-#: src/region_names.rs:418
+#: src/region_names.rs:447
 msgid "Goa"
 msgstr "ゴア州"
 
-#: src/region_names.rs:419
+#: src/region_names.rs:448
 msgid "Gujarat"
 msgstr "グジャラート州"
 
-#: src/region_names.rs:420
+#: src/region_names.rs:449
 msgid "Haryana"
 msgstr "ハリヤーナー州"
 
-#: src/region_names.rs:421
+#: src/region_names.rs:450
 msgid "Himachal Pradesh"
 msgstr "ヒマーチャル・プラデーシュ州"
 
-#: src/region_names.rs:422
+#: src/region_names.rs:451
 msgid "Jammu and Kashmir"
 msgstr "ジャンムー・カシミール"
 
-#: src/region_names.rs:423
+#: src/region_names.rs:452
 msgid "Jharkhand"
 msgstr "ジャールカンド州"
 
-#: src/region_names.rs:424
+#: src/region_names.rs:453
 msgid "Karnataka"
 msgstr "カルナータカ州"
 
-#: src/region_names.rs:425
+#: src/region_names.rs:454
 msgid "Kerala"
 msgstr "ケーララ州"
 
-#: src/region_names.rs:426
+#: src/region_names.rs:455
 msgid "Ladakh"
 msgstr "ラダック"
 
-#: src/region_names.rs:427
+#: src/region_names.rs:456
 msgid "Lakshadweep"
 msgstr "ラクシャドウィープ"
 
-#: src/region_names.rs:428
+#: src/region_names.rs:457
 msgid "Madhya Pradesh"
 msgstr "マディヤ・プラデーシュ州"
 
-#: src/region_names.rs:429
+#: src/region_names.rs:458
 msgid "Maharashtra"
 msgstr "マハーラーシュトラ州"
 
-#: src/region_names.rs:430
+#: src/region_names.rs:459
 msgid "Manipur"
 msgstr "マニプル州"
 
-#: src/region_names.rs:431
+#: src/region_names.rs:460
 msgid "Meghalaya"
 msgstr "メーガーラヤ州"
 
-#: src/region_names.rs:432
+#: src/region_names.rs:461
 msgid "Mizoram"
 msgstr "ミゾラム州"
 
-#: src/region_names.rs:433
+#: src/region_names.rs:462
 msgid "Nagaland"
 msgstr "ナガランド州"
 
-#: src/region_names.rs:434
+#: src/region_names.rs:463
 msgid "Odisha"
 msgstr "オリッサ州"
 
-#: src/region_names.rs:435
+#: src/region_names.rs:464
 msgid "Puducherry"
 msgstr "ポンディシェリ連邦直轄領"
 
-#: src/region_names.rs:436
+#: src/region_names.rs:465
 msgid "Punjab"
 msgstr "パンジャーブ州"
 
-#: src/region_names.rs:437
+#: src/region_names.rs:466
 msgid "Rajasthan"
 msgstr "ラージャスターン州"
 
-#: src/region_names.rs:438
+#: src/region_names.rs:467
 msgid "Sikkim"
 msgstr "シッキム州"
 
-#: src/region_names.rs:439
+#: src/region_names.rs:468
 msgid "Tamil Nadu"
 msgstr "タミル・ナードゥ州"
 
-#: src/region_names.rs:440
+#: src/region_names.rs:469
 msgid "Telangana"
 msgstr "テランガーナ州"
 
-#: src/region_names.rs:441
+#: src/region_names.rs:470
 msgid "Tripura"
 msgstr "トリプラ州"
 
-#: src/region_names.rs:442
+#: src/region_names.rs:471
 msgid "Uttar Pradesh"
 msgstr "ウッタル・プラデーシュ州"
 
-#: src/region_names.rs:443
+#: src/region_names.rs:472
 msgid "Uttarakhand"
 msgstr "ウッタラーカンド州"
 
-#: src/region_names.rs:444
+#: src/region_names.rs:473
 msgid "West Bengal"
 msgstr "西ベンガル州"
 
-#: src/region_names.rs:448
+#: src/region_names.rs:477
 msgid "Hokkaidō"
 msgstr "北海道"
 
-#: src/region_names.rs:449
+#: src/region_names.rs:478
 msgid "Aomori"
 msgstr "青森県"
 
-#: src/region_names.rs:450
+#: src/region_names.rs:479
 msgid "Iwate"
 msgstr "岩手県"
 
-#: src/region_names.rs:451
+#: src/region_names.rs:480
 msgid "Miyagi"
 msgstr "宮城県"
 
-#: src/region_names.rs:452
+#: src/region_names.rs:481
 msgid "Akita"
 msgstr "秋田県"
 
-#: src/region_names.rs:453
+#: src/region_names.rs:482
 msgid "Yamagata"
 msgstr "山形県"
 
-#: src/region_names.rs:454
+#: src/region_names.rs:483
 msgid "Fukushima"
 msgstr "福島県"
 
-#: src/region_names.rs:455
+#: src/region_names.rs:484
 msgid "Ibaraki"
 msgstr "茨城県"
 
-#: src/region_names.rs:456
+#: src/region_names.rs:485
 msgid "Tochigi"
 msgstr "栃木県"
 
-#: src/region_names.rs:457
+#: src/region_names.rs:486
 msgid "Gunma"
 msgstr "群馬県"
 
-#: src/region_names.rs:458
+#: src/region_names.rs:487
 msgid "Saitama"
 msgstr "埼玉県"
 
-#: src/region_names.rs:459
+#: src/region_names.rs:488
 msgid "Chiba"
 msgstr "千葉県"
 
-#: src/region_names.rs:460
+#: src/region_names.rs:489
 msgid "Tokyo"
 msgstr "東京都"
 
-#: src/region_names.rs:461
+#: src/region_names.rs:490
 msgid "Kanagawa"
 msgstr "神奈川県"
 
-#: src/region_names.rs:462
+#: src/region_names.rs:491
 msgid "Niigata"
 msgstr "新潟県"
 
-#: src/region_names.rs:463
+#: src/region_names.rs:492
 msgid "Toyama"
 msgstr "富山県"
 
-#: src/region_names.rs:464
+#: src/region_names.rs:493
 msgid "Ishikawa"
 msgstr "石川県"
 
-#: src/region_names.rs:465
+#: src/region_names.rs:494
 msgid "Fukui"
 msgstr "福井県"
 
-#: src/region_names.rs:466
+#: src/region_names.rs:495
 msgid "Yamanashi"
 msgstr "山梨県"
 
-#: src/region_names.rs:467
+#: src/region_names.rs:496
 msgid "Nagano"
 msgstr "長野県"
 
-#: src/region_names.rs:468
+#: src/region_names.rs:497
 msgid "Gifu"
 msgstr "岐阜県"
 
-#: src/region_names.rs:469
+#: src/region_names.rs:498
 msgid "Shizuoka"
 msgstr "静岡県"
 
-#: src/region_names.rs:470
+#: src/region_names.rs:499
 msgid "Aichi"
 msgstr "愛知県"
 
-#: src/region_names.rs:471
+#: src/region_names.rs:500
 msgid "Mie"
 msgstr "三重県"
 
-#: src/region_names.rs:472
+#: src/region_names.rs:501
 msgid "Shiga"
 msgstr "滋賀県"
 
-#: src/region_names.rs:473
+#: src/region_names.rs:502
 msgid "Kyōto"
 msgstr "京都府"
 
-#: src/region_names.rs:474
+#: src/region_names.rs:503
 msgid "Ōsaka"
 msgstr "大阪府"
 
-#: src/region_names.rs:475
+#: src/region_names.rs:504
 msgid "Hyōgo"
 msgstr "兵庫県"
 
-#: src/region_names.rs:476
+#: src/region_names.rs:505
 msgid "Nara"
 msgstr "奈良県"
 
-#: src/region_names.rs:477
+#: src/region_names.rs:506
 msgid "Wakayama"
 msgstr "和歌山県"
 
-#: src/region_names.rs:478
+#: src/region_names.rs:507
 msgid "Tottori"
 msgstr "鳥取県"
 
-#: src/region_names.rs:479
+#: src/region_names.rs:508
 msgid "Shimane"
 msgstr "島根県"
 
-#: src/region_names.rs:480
+#: src/region_names.rs:509
 msgid "Okayama"
 msgstr "岡山県"
 
-#: src/region_names.rs:481
+#: src/region_names.rs:510
 msgid "Hiroshima"
 msgstr "広島県"
 
-#: src/region_names.rs:482
+#: src/region_names.rs:511
 msgid "Yamaguchi"
 msgstr "山口県"
 
-#: src/region_names.rs:483
+#: src/region_names.rs:512
 msgid "Tokushima"
 msgstr "徳島県"
 
-#: src/region_names.rs:484
+#: src/region_names.rs:513
 msgid "Kagawa"
 msgstr "香川県"
 
-#: src/region_names.rs:485
+#: src/region_names.rs:514
 msgid "Ehime"
 msgstr "愛媛県"
 
-#: src/region_names.rs:486
+#: src/region_names.rs:515
 msgid "Kōchi"
 msgstr "高知県"
 
-#: src/region_names.rs:487
+#: src/region_names.rs:516
 msgid "Fukuoka"
 msgstr "福岡県"
 
-#: src/region_names.rs:488
+#: src/region_names.rs:517
 msgid "Saga"
 msgstr "佐賀県"
 
-#: src/region_names.rs:489
+#: src/region_names.rs:518
 msgid "Nagasaki"
 msgstr "長崎県"
 
-#: src/region_names.rs:490
+#: src/region_names.rs:519
 msgid "Kumamoto"
 msgstr "熊本県"
 
-#: src/region_names.rs:491
+#: src/region_names.rs:520
 msgid "Ōita"
 msgstr "大分県"
 
-#: src/region_names.rs:492
+#: src/region_names.rs:521
 msgid "Miyazaki"
 msgstr "宮崎県"
 
-#: src/region_names.rs:493
+#: src/region_names.rs:522
 msgid "Kagoshima"
 msgstr "鹿児島県"
 
-#: src/region_names.rs:494
+#: src/region_names.rs:523
 msgid "Okinawa"
 msgstr "沖縄県"
 
-#: src/region_names.rs:498
+#: src/region_names.rs:527
 msgid "Alabama"
 msgstr "アラバマ州"
 
-#: src/region_names.rs:499
+#: src/region_names.rs:528
 msgid "Alaska"
 msgstr "アラスカ州"
 
-#: src/region_names.rs:500
+#: src/region_names.rs:529
 msgid "Arizona"
 msgstr "アリゾナ州"
 
-#: src/region_names.rs:501
+#: src/region_names.rs:530
 msgid "Arkansas"
 msgstr "アーカンソー州"
 
-#: src/region_names.rs:502
+#: src/region_names.rs:531
 msgid "California"
 msgstr "カリフォルニア州"
 
-#: src/region_names.rs:503
+#: src/region_names.rs:532
 msgid "Colorado"
 msgstr "コロラド州"
 
-#: src/region_names.rs:504
+#: src/region_names.rs:533
 msgid "Connecticut"
 msgstr "コネチカット州"
 
-#: src/region_names.rs:505
+#: src/region_names.rs:534
 msgid "Delaware"
 msgstr "デラウェア州"
 
-#: src/region_names.rs:506
+#: src/region_names.rs:535
 msgid "District of Columbia"
 msgstr "コロンビア特別区"
 
-#: src/region_names.rs:507
+#: src/region_names.rs:536
 msgid "Florida"
 msgstr "フロリダ州"
 
-#: src/region_names.rs:509
+#: src/region_names.rs:538
 msgid "Hawaii"
 msgstr "ハワイ州"
 
-#: src/region_names.rs:510
+#: src/region_names.rs:539
 msgid "Idaho"
 msgstr "アイダホ州"
 
-#: src/region_names.rs:511
+#: src/region_names.rs:540
 msgid "Illinois"
 msgstr "イリノイ州"
 
-#: src/region_names.rs:512
+#: src/region_names.rs:541
 msgid "Indiana"
 msgstr "インディアナ州"
 
-#: src/region_names.rs:513
+#: src/region_names.rs:542
 msgid "Iowa"
 msgstr "アイオワ州"
 
-#: src/region_names.rs:514
+#: src/region_names.rs:543
 msgid "Kansas"
 msgstr "カンザス州"
 
-#: src/region_names.rs:515
+#: src/region_names.rs:544
 msgid "Kentucky"
 msgstr "ケンタッキー州"
 
-#: src/region_names.rs:516
+#: src/region_names.rs:545
 msgid "Louisiana"
 msgstr "ルイジアナ州"
 
-#: src/region_names.rs:517
+#: src/region_names.rs:546
 msgid "Maine"
 msgstr "メイン州"
 
-#: src/region_names.rs:518
+#: src/region_names.rs:547
 msgid "Maryland"
 msgstr "メリーランド州"
 
-#: src/region_names.rs:519
+#: src/region_names.rs:548
 msgid "Massachusetts"
 msgstr "マサチューセッツ州"
 
-#: src/region_names.rs:520
+#: src/region_names.rs:549
 msgid "Michigan"
 msgstr "ミシガン州"
 
-#: src/region_names.rs:521
+#: src/region_names.rs:550
 msgid "Minnesota"
 msgstr "ミネソタ州"
 
-#: src/region_names.rs:522
+#: src/region_names.rs:551
 msgid "Mississippi"
 msgstr "ミシシッピ州"
 
-#: src/region_names.rs:523
+#: src/region_names.rs:552
 msgid "Missouri"
 msgstr "ミズーリ州"
 
-#: src/region_names.rs:524
+#: src/region_names.rs:553
 msgid "Montana"
 msgstr "モンタナ州"
 
-#: src/region_names.rs:525
+#: src/region_names.rs:554
 msgid "Nebraska"
 msgstr "ネブラスカ州"
 
-#: src/region_names.rs:526
+#: src/region_names.rs:555
 msgid "Nevada"
 msgstr "ネバダ州"
 
-#: src/region_names.rs:527
+#: src/region_names.rs:556
 msgid "New Hampshire"
 msgstr "ニューハンプシャー州"
 
-#: src/region_names.rs:528
+#: src/region_names.rs:557
 msgid "New Jersey"
 msgstr "ニュージャージー州"
 
-#: src/region_names.rs:529
+#: src/region_names.rs:558
 msgid "New Mexico"
 msgstr "ニューメキシコ州"
 
-#: src/region_names.rs:530
+#: src/region_names.rs:559
 msgid "New York"
 msgstr "ニューヨーク州"
 
-#: src/region_names.rs:531
+#: src/region_names.rs:560
 msgid "North Carolina"
 msgstr "ノースカロライナ州"
 
-#: src/region_names.rs:532
+#: src/region_names.rs:561
 msgid "North Dakota"
 msgstr "ノースダコタ州"
 
-#: src/region_names.rs:533
+#: src/region_names.rs:562
 msgid "Ohio"
 msgstr "オハイオ州"
 
-#: src/region_names.rs:534
+#: src/region_names.rs:563
 msgid "Oklahoma"
 msgstr "オクラホマ州"
 
-#: src/region_names.rs:535
+#: src/region_names.rs:564
 msgid "Oregon"
 msgstr "オレゴン州"
 
-#: src/region_names.rs:536
+#: src/region_names.rs:565
 msgid "Pennsylvania"
 msgstr "ペンシルベニア州"
 
-#: src/region_names.rs:537
+#: src/region_names.rs:566
 msgid "Rhode Island"
 msgstr "ロードアイランド州"
 
-#: src/region_names.rs:538
+#: src/region_names.rs:567
 msgid "South Carolina"
 msgstr "サウスカロライナ州"
 
-#: src/region_names.rs:539
+#: src/region_names.rs:568
 msgid "South Dakota"
 msgstr "サウスダコタ州"
 
-#: src/region_names.rs:540
+#: src/region_names.rs:569
 msgid "Tennessee"
 msgstr "テネシー州"
 
-#: src/region_names.rs:541
+#: src/region_names.rs:570
 msgid "Texas"
 msgstr "テキサス州"
 
-#: src/region_names.rs:542
+#: src/region_names.rs:571
 msgid "Utah"
 msgstr "ユタ州"
 
-#: src/region_names.rs:543
+#: src/region_names.rs:572
 msgid "Vermont"
 msgstr "バーモント州"
 
-#: src/region_names.rs:544
+#: src/region_names.rs:573
 msgid "Virginia"
 msgstr "バージニア州"
 
-#: src/region_names.rs:545
+#: src/region_names.rs:574
 msgid "Washington"
 msgstr "ワシントン州"
 
-#: src/region_names.rs:546
+#: src/region_names.rs:575
 msgid "West Virginia"
 msgstr "ウェストバージニア州"
 
-#: src/region_names.rs:547
+#: src/region_names.rs:576
 msgid "Wisconsin"
 msgstr "ウィスコンシン州"
 
-#: src/region_names.rs:548
+#: src/region_names.rs:577
 msgid "Wyoming"
 msgstr "ワイオミング州"
 
-#: src/region_names.rs:552 src/region_names.rs:582
+#: src/region_names.rs:581 src/region_names.rs:611
 msgid "Greater Poland"
 msgstr "ヴィエルコポルスカ県"
 
-#: src/region_names.rs:553 src/region_names.rs:572
+#: src/region_names.rs:582 src/region_names.rs:601
 msgid "Kuyavia-Pomerania"
 msgstr "クヤヴィ＝ポモージェ県"
 
-#: src/region_names.rs:554 src/region_names.rs:577
+#: src/region_names.rs:583 src/region_names.rs:606
 msgid "Lesser Poland"
 msgstr "マウォポルスカ県"
 
-#: src/region_names.rs:555 src/region_names.rs:586
+#: src/region_names.rs:584 src/region_names.rs:615
 msgid "Lower Silesia"
 msgstr "ドルヌィ・シロンスク県"
 
-#: src/region_names.rs:556 src/region_names.rs:578
+#: src/region_names.rs:585 src/region_names.rs:607
 msgid "Lublin"
 msgstr "ルブリン県"
 
-#: src/region_names.rs:557 src/region_names.rs:574
+#: src/region_names.rs:586 src/region_names.rs:603
 msgid "Lubusz"
 msgstr "ルブシュ県"
 
-#: src/region_names.rs:558 src/region_names.rs:585
+#: src/region_names.rs:587 src/region_names.rs:614
 msgid "Masovia"
 msgstr "マゾフシェ県"
 
 # オポレ市とオポレ県に対して使われます
-#: src/region_names.rs:559 src/region_names.rs:581
+#: src/region_names.rs:588 src/region_names.rs:610
 msgid "Opole"
 msgstr "オポレ"
 
-#: src/region_names.rs:560 src/region_names.rs:571
+#: src/region_names.rs:589 src/region_names.rs:600
 msgid "Podlachia"
 msgstr "ポドラシェ県"
 
-#: src/region_names.rs:561 src/region_names.rs:573
+#: src/region_names.rs:590 src/region_names.rs:602
 msgid "Pomerania"
 msgstr "ポモージェ県"
 
-#: src/region_names.rs:562 src/region_names.rs:575
+#: src/region_names.rs:591 src/region_names.rs:604
 msgid "Silesia"
 msgstr "シロンスク県"
 
-#: src/region_names.rs:563 src/region_names.rs:583
+#: src/region_names.rs:592 src/region_names.rs:612
 msgid "Subcarpathia"
 msgstr "ポトカルパチェ県"
 
-#: src/region_names.rs:564 src/region_names.rs:576
+#: src/region_names.rs:593 src/region_names.rs:605
 msgid "Świętokrzyskie"
 msgstr "シフィェントクシシュ県"
 
-#: src/region_names.rs:565 src/region_names.rs:580
+#: src/region_names.rs:594 src/region_names.rs:609
 msgid "Warmia-Masuria"
 msgstr "ヴァルミア＝マズールィ県"
 
-#: src/region_names.rs:566 src/region_names.rs:584
+#: src/region_names.rs:595 src/region_names.rs:613
 msgid "West Pomerania"
 msgstr "西ポモージェ県"
 
 # ウッチ市とウッチ県に対して使われます
-#: src/region_names.rs:567 src/region_names.rs:579
+#: src/region_names.rs:596 src/region_names.rs:608
 msgid "Łódź"
 msgstr "ウッチ"
 
-#: src/region_names.rs:571
+#: src/region_names.rs:600
 msgid "Białystok"
 msgstr "ビャウィストック"
 
-#: src/region_names.rs:572
+#: src/region_names.rs:601
 msgid "Bydgoszcz"
 msgstr "ブィドゴシュチュ"
 
-#: src/region_names.rs:573
+#: src/region_names.rs:602
 msgid "Gdańsk"
 msgstr "グダニスク"
 
-#: src/region_names.rs:574
+#: src/region_names.rs:603
 msgid "Gorzów Wielkopolski"
 msgstr "ゴジュフ・ヴィエルコポルスキ"
 
-#: src/region_names.rs:575
+#: src/region_names.rs:604
 msgid "Katowice"
 msgstr "カトヴィツェ"
 
-#: src/region_names.rs:576
+#: src/region_names.rs:605
 msgid "Kielce"
 msgstr "キェルツェ"
 
-#: src/region_names.rs:577
+#: src/region_names.rs:606
 msgid "Kraków"
 msgstr "クラクフ"
 
-#: src/region_names.rs:580
+#: src/region_names.rs:609
 msgid "Olsztyn"
 msgstr "オルシュティン"
 
-#: src/region_names.rs:582
+#: src/region_names.rs:611
 msgid "Poznań"
 msgstr "ポズナン"
 
-#: src/region_names.rs:583
+#: src/region_names.rs:612
 msgid "Rzeszów"
 msgstr "ジェシュフ"
 
-#: src/region_names.rs:584
+#: src/region_names.rs:613
 msgid "Szczecin"
 msgstr "シュチェチン"
 
-#: src/region_names.rs:585 src/region_names.rs:702
+#: src/region_names.rs:614 src/region_names.rs:731
 msgid "Warsaw"
 msgstr "ワルシャワ"
 
-#: src/region_names.rs:586
+#: src/region_names.rs:615
 msgid "Wrocław"
 msgstr "ヴロツワフ"
 
-#: src/region_names.rs:590
+#: src/region_names.rs:619
 msgid "Aveiro"
 msgstr "アヴェイロ県"
 
-#: src/region_names.rs:591
+#: src/region_names.rs:620
 msgid "Azores"
 msgstr "アゾレス諸島"
 
-#: src/region_names.rs:592
+#: src/region_names.rs:621
 msgid "Beja"
 msgstr "ベージャ県"
 
-#: src/region_names.rs:593
+#: src/region_names.rs:622
 msgid "Braga"
 msgstr "ブラガ県"
 
-#: src/region_names.rs:594
+#: src/region_names.rs:623
 msgid "Bragança"
 msgstr "ブラガンサ県"
 
-#: src/region_names.rs:595
+#: src/region_names.rs:624
 msgid "Castelo Branco"
 msgstr "カステロ・ブランコ県"
 
-#: src/region_names.rs:596
+#: src/region_names.rs:625
 msgid "Coimbra"
 msgstr "コインブラ県"
 
-#: src/region_names.rs:597
+#: src/region_names.rs:626
 msgid "Faro"
 msgstr "ファーロ県"
 
-#: src/region_names.rs:598
+#: src/region_names.rs:627
 msgid "Guarda"
 msgstr "グアルダ県"
 
-#: src/region_names.rs:599
+#: src/region_names.rs:628
 msgid "Leiria"
 msgstr "レイリア県"
 
-#: src/region_names.rs:600
+#: src/region_names.rs:629
 msgid "Lisboa"
 msgstr "リスボン県"
 
-#: src/region_names.rs:601
+#: src/region_names.rs:630
 msgid "Madeira"
 msgstr "マデイラ諸島"
 
-#: src/region_names.rs:602
+#: src/region_names.rs:631
 msgid "Portalegre"
 msgstr "ポルタレグレ県"
 
-#: src/region_names.rs:603
+#: src/region_names.rs:632
 msgid "Porto"
 msgstr "ポルト県"
 
-#: src/region_names.rs:604
+#: src/region_names.rs:633
 msgid "Santarém"
 msgstr "サンタレン県"
 
-#: src/region_names.rs:605
+#: src/region_names.rs:634
 msgid "Setúbal"
 msgstr "セトゥーバル県"
 
-#: src/region_names.rs:606
+#: src/region_names.rs:635
 msgid "Viana do Castelo"
 msgstr "ヴィアナ・ド・カステロ県"
 
-#: src/region_names.rs:607
+#: src/region_names.rs:636
 msgid "Vila Real"
 msgstr "ヴィラ・レアル県"
 
-#: src/region_names.rs:608
+#: src/region_names.rs:637
 msgid "Viseu"
 msgstr "ヴィゼウ県"
 
-#: src/region_names.rs:609
+#: src/region_names.rs:638
 msgid "Évora"
 msgstr "エヴォラ県"
 
-#: src/region_names.rs:613
+#: src/region_names.rs:642
 msgid "Bidasoa"
 msgstr "ビダソア川"
 
-#: src/region_names.rs:614
+#: src/region_names.rs:643
 msgid "Duero"
 msgstr "ドゥエロ川"
 
-#: src/region_names.rs:615
+#: src/region_names.rs:644
 msgid "Ebro"
 msgstr "エブロ川"
 
-#: src/region_names.rs:616
+#: src/region_names.rs:645
 msgid "Genil"
 msgstr "ヘニル川"
 
-#: src/region_names.rs:617
+#: src/region_names.rs:646
 msgid "Guadalete"
 msgstr "グアダレーテ川"
 
-#: src/region_names.rs:618
+#: src/region_names.rs:647
 msgid "Guadalquivir"
 msgstr "グアダルキビール川"
 
-#: src/region_names.rs:619
+#: src/region_names.rs:648
 msgid "Guadiana"
 msgstr "グアディアナ川"
 
-#: src/region_names.rs:620
+#: src/region_names.rs:649
 msgid "Jarama"
 msgstr "ハラマ川"
 
-#: src/region_names.rs:621
+#: src/region_names.rs:650
 msgid "Júcar"
 msgstr "フカル川"
 
-#: src/region_names.rs:622
+#: src/region_names.rs:651
 msgid "Llobregat"
 msgstr "リュブラガート川"
 
-#: src/region_names.rs:623
+#: src/region_names.rs:652
 msgid "Miño"
 msgstr "ミーニョ川"
 
-#: src/region_names.rs:624
+#: src/region_names.rs:653
 msgid "Nalón"
 msgstr "ナロン川"
 
-#: src/region_names.rs:625
+#: src/region_names.rs:654
 msgid "Navia"
 msgstr "ナビア川"
 
-#: src/region_names.rs:626
+#: src/region_names.rs:655
 msgid "Nervión"
 msgstr "ネルビオン川"
 
-#: src/region_names.rs:627
+#: src/region_names.rs:656
 msgid "Pisuerga"
 msgstr "ピスエルガ川"
 
-#: src/region_names.rs:628
+#: src/region_names.rs:657
 msgid "Segre"
 msgstr "セグレ川"
 
-#: src/region_names.rs:629
+#: src/region_names.rs:658
 msgid "Segura"
 msgstr "セグラ川"
 
-#: src/region_names.rs:630
+#: src/region_names.rs:659
 msgid "Tajo"
 msgstr "タホ川"
 
-#: src/region_names.rs:631
+#: src/region_names.rs:660
 msgid "Ter"
 msgstr "テル川"
 
-#: src/region_names.rs:632
+#: src/region_names.rs:661
 msgid "Turia"
 msgstr "トゥリア川"
 
-#: src/region_names.rs:643
+#: src/region_names.rs:672
 msgid "Auvergne-Rhône-Alpes"
 msgstr "オーヴェルニュ＝ローヌ＝アルプ"
 
-#: src/region_names.rs:644
+#: src/region_names.rs:673
 msgid "Bourgogne-Franche-Comté"
 msgstr "ブルゴーニュ＝フランシュ＝コンテ"
 
-#: src/region_names.rs:645
+#: src/region_names.rs:674
 msgid "Brittany"
 msgstr "ブルターニュ"
 
-#: src/region_names.rs:646
+#: src/region_names.rs:675
 msgid "Centre-Val de Loire"
 msgstr "サントル＝ヴァル・ド・ロワール"
 
-#: src/region_names.rs:647
+#: src/region_names.rs:676
 msgid "Corsica"
 msgstr "コルシカ"
 
-#: src/region_names.rs:648
+#: src/region_names.rs:677
 msgid "Grand Est"
 msgstr "グラン・テスト"
 
-#: src/region_names.rs:649
+#: src/region_names.rs:678
 msgid "Guadeloupe"
 msgstr "グアドループ"
 
-#: src/region_names.rs:650
+#: src/region_names.rs:679
 msgid "French Guiana"
 msgstr "フランス領ギアナ"
 
-#: src/region_names.rs:651
+#: src/region_names.rs:680
 msgid "Hauts-de-France"
 msgstr "オー＝ド＝フランス"
 
-#: src/region_names.rs:652
+#: src/region_names.rs:681
 msgid "Île-de-France"
 msgstr "イル＝ド＝フランス"
 
-#: src/region_names.rs:653
+#: src/region_names.rs:682
 msgid "Réunion"
 msgstr "レユニオン"
 
-#: src/region_names.rs:654
+#: src/region_names.rs:683
 msgid "Martinique"
 msgstr "マルティニーク"
 
-#: src/region_names.rs:655
+#: src/region_names.rs:684
 msgid "Mayotte"
 msgstr "マヨット"
 
-#: src/region_names.rs:656
+#: src/region_names.rs:685
 msgid "Normandy"
 msgstr "ノルマンディー"
 
-#: src/region_names.rs:657
+#: src/region_names.rs:686
 msgid "New Aquitaine"
 msgstr "ヌーヴェル＝アキテーヌ"
 
-#: src/region_names.rs:658
+#: src/region_names.rs:687
 msgid "Occitanie"
 msgstr "オクシタニー"
 
-#: src/region_names.rs:659
+#: src/region_names.rs:688
 msgid "Pays de la Loire"
 msgstr "ペイ・ド・ラ・ロワール"
 
-#: src/region_names.rs:662
+#: src/region_names.rs:691
 msgid "Provence-Alpes-Côte d'Azur"
 msgstr "プロヴァンス＝アルプ＝コート・ダジュール"
 
-#: src/region_names.rs:667
+#: src/region_names.rs:696
 msgid "Tirana"
 msgstr "ティラナ"
 
-#: src/region_names.rs:668
+#: src/region_names.rs:697
 msgid "Andorra la Vella"
 msgstr "アンドラ・ラ・ベリャ"
 
-#: src/region_names.rs:669
+#: src/region_names.rs:698
 msgid "Yerevan"
 msgstr "エレバン"
 
-#: src/region_names.rs:670
+#: src/region_names.rs:699
 msgid "Vienna"
 msgstr "ウィーン"
 
-#: src/region_names.rs:671
+#: src/region_names.rs:700
 msgid "Baku"
 msgstr "バクー"
 
-#: src/region_names.rs:672
+#: src/region_names.rs:701
 msgid "Minsk"
 msgstr "ミンスク"
 
-#: src/region_names.rs:673
+#: src/region_names.rs:702
 msgid "Brussels"
 msgstr "ブリュッセル"
 
-#: src/region_names.rs:674
+#: src/region_names.rs:703
 msgid "Sarajevo"
 msgstr "サラエヴォ"
 
-#: src/region_names.rs:675
+#: src/region_names.rs:704
 msgid "Sofia"
 msgstr "ソフィア"
 
-#: src/region_names.rs:676
+#: src/region_names.rs:705
 msgid "Zagreb"
 msgstr "ザグレブ"
 
-#: src/region_names.rs:677
+#: src/region_names.rs:706
 msgid "Nicosia"
 msgstr "ニコシア"
 
-#: src/region_names.rs:678
+#: src/region_names.rs:707
 msgid "Prague"
 msgstr "プラハ"
 
-#: src/region_names.rs:679
+#: src/region_names.rs:708
 msgid "Copenhagen"
 msgstr "コペンハーゲン"
 
-#: src/region_names.rs:680
+#: src/region_names.rs:709
 msgid "Tallinn"
 msgstr "タリン"
 
-#: src/region_names.rs:681
+#: src/region_names.rs:710
 msgid "Helsinki"
 msgstr "ヘルシンキ"
 
-#: src/region_names.rs:682
+#: src/region_names.rs:711
 msgid "Paris"
 msgstr "パリ"
 
-#: src/region_names.rs:683
+#: src/region_names.rs:712
 msgid "Tbilisi"
 msgstr "トビリシ"
 
-#: src/region_names.rs:685
+#: src/region_names.rs:714
 msgid "Athens"
 msgstr "アテネ"
 
-#: src/region_names.rs:686
+#: src/region_names.rs:715
 msgid "Budapest"
 msgstr "ブダペスト"
 
-#: src/region_names.rs:687
+#: src/region_names.rs:716
 msgid "Reykjavik"
 msgstr "レイキャヴィーク"
 
-#: src/region_names.rs:688
+#: src/region_names.rs:717
 msgid "Dublin"
 msgstr "ダブリン"
 
-#: src/region_names.rs:689
+#: src/region_names.rs:718
 msgid "Rome"
 msgstr "ローマ"
 
-#: src/region_names.rs:690
+#: src/region_names.rs:719
 msgid "Pristina"
 msgstr "プリシュティナ"
 
-#: src/region_names.rs:691
+#: src/region_names.rs:720
 msgid "Riga"
 msgstr "リーガ"
 
-#: src/region_names.rs:692
+#: src/region_names.rs:721
 msgid "Vaduz"
 msgstr "ファドゥーツ"
 
-#: src/region_names.rs:693
+#: src/region_names.rs:722
 msgid "Vilnius"
 msgstr "ヴィリニュス"
 
-#: src/region_names.rs:695
+#: src/region_names.rs:724
 msgid "Valletta"
 msgstr "バレッタ"
 
-#: src/region_names.rs:696
+#: src/region_names.rs:725
 msgid "Chisinau"
 msgstr "キシナウ"
 
-#: src/region_names.rs:698
+#: src/region_names.rs:727
 msgid "Podgorica"
 msgstr "ポドゴリツァ"
 
-#: src/region_names.rs:699
+#: src/region_names.rs:728
 msgid "Amsterdam"
 msgstr "アムステルダム"
 
-#: src/region_names.rs:700
+#: src/region_names.rs:729
 msgid "Skopje"
 msgstr "スコピエ"
 
-#: src/region_names.rs:701
+#: src/region_names.rs:730
 msgid "Oslo"
 msgstr "オスロ"
 
-#: src/region_names.rs:703
+#: src/region_names.rs:732
 msgid "Lisbon"
 msgstr "リスボン"
 
-#: src/region_names.rs:704
+#: src/region_names.rs:733
 msgid "Bucharest"
 msgstr "ブカレスト"
 
-#: src/region_names.rs:705
+#: src/region_names.rs:734
 msgid "Moscow"
 msgstr "モスクワ"
 
-#: src/region_names.rs:707
+#: src/region_names.rs:736
 msgid "Belgrade"
 msgstr "ベオグラード"
 
-#: src/region_names.rs:708
+#: src/region_names.rs:737
 msgid "Bratislava"
 msgstr "ブラチスラバ"
 
-#: src/region_names.rs:709
+#: src/region_names.rs:738
 msgid "Ljubljana"
 msgstr "リュブリャナ"
 
-#: src/region_names.rs:711
+#: src/region_names.rs:740
 msgid "Stockholm"
 msgstr "ストックホルム"
 
-#: src/region_names.rs:712
-msgid "Bern"
-msgstr "ベルン"
-
-#: src/region_names.rs:713
+#: src/region_names.rs:742
 msgid "Ankara"
 msgstr "アンカラ"
 
-#: src/region_names.rs:714
+#: src/region_names.rs:743
 msgid "Kyiv"
 msgstr "キーウ"
 
-#: src/region_names.rs:715
+#: src/region_names.rs:744
 msgid "London"
 msgstr "ロンドン"
 
@@ -2354,7 +2455,7 @@ msgid "Rivers"
 msgstr "河川"
 
 # フランスとイタリアについて使われます。フランスの「地域圏」は「州」と呼ぶこともできます。
-#: src/registry.rs:118 src/registry.rs:155
+#: src/registry.rs:118 src/registry.rs:167
 msgid "Regions"
 msgstr "州"
 
@@ -2367,82 +2468,91 @@ msgstr "州"
 msgid "State Capitals"
 msgstr "州都"
 
-#: src/registry.rs:167
+#: src/registry.rs:155
+msgid "Cantons"
+msgstr ""
+
+#: src/registry.rs:179
 msgctxt "India"
 msgid "States"
 msgstr "州"
 
-#: src/registry.rs:179
+#: src/registry.rs:191
 msgid "Prefectures"
 msgstr "都道府県"
 
-#: src/registry.rs:192
+#: src/registry.rs:204
 msgid "Continents"
 msgstr "大陸"
 
-#: src/registry.rs:203
+#: src/registry.rs:215
 msgid "Countries of Africa"
 msgstr "アフリカの国々"
 
-#: src/registry.rs:214
+#: src/registry.rs:226
 msgid "Countries of America"
 msgstr "アメリカ大陸の国々"
 
-#: src/registry.rs:225
+#: src/registry.rs:237
 msgid "Countries of Asia"
 msgstr "アジアの国々"
 
-#: src/registry.rs:236
+#: src/registry.rs:248
 msgid "Countries of Europe"
 msgstr "ヨーロッパの国々"
 
-#: src/registry.rs:247
+#: src/registry.rs:259
 msgid "Capitals of Europe"
 msgstr "ヨーロッパ各国の首都"
 
-#: src/registry.rs:258
+#: src/registry.rs:270
 msgid "Countries of Oceania"
 msgstr "オセアニアの国々"
 
-#: src/registry.rs:271
+#: src/registry.rs:283
 msgid "Districts"
 msgstr "県"
 
-#: src/registry.rs:284
+#: src/registry.rs:296
 msgid "Voivodeships"
 msgstr "県"
 
-#: src/registry.rs:295
+#: src/registry.rs:307
 msgid "Capitals of Voivodeships"
 msgstr "県都"
 
-#: src/registry.rs:311
+#: src/registry.rs:323
 msgctxt "United States"
 msgid "States"
 msgstr "州"
 
-#: src/registry.rs:324
+#: src/registry.rs:336
 msgid "World"
 msgstr "世界"
 
 # ポーランドの県都、ドイツの州都、スペインの州都、ヨーロッパ各国の首都に対して使われます
 #: src/map_exercise_view.rs:154
+#, rust-format
 msgid "{}, capital of {}"
 msgstr "{}（{}の首都）"
 
 #: src/map_exercise_view.rs:306
+#, rust-format
 msgid "Select: {}"
 msgstr "{}をクリック"
 
 #: src/map_exercise_view.rs:308
+#, rust-format
 msgid "Attempts remaining: {}"
 msgstr "残り{}回"
 
 #: src/quiz_results_view.rs:102
+#, rust-format
 msgid "{}/{}"
 msgstr "{}/{}"
 
 #: src/quiz_results_view.rs:104
+#, rust-format
 msgid "Score — {}%"
 msgstr "正解（{}%）"
 
@@ -2455,6 +2565,7 @@ msgid "Your score didn't make the top 50"
 msgstr "スコアはトップ50に入れませんでした"
 
 #: src/quiz_results_view.rs:179
+#, rust-format
 msgid "{}% — {}:{:02}"
 msgstr "{}%（{}:{:02}）"
 
