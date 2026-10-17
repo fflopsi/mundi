@@ -79,6 +79,35 @@ pub const GERMANY_STATE_CAPITALS: &[(&str, &str)] = &[
     (N_("Wiesbaden"), N_("Hesse")),
 ];
 
+pub const SWITZERLAND_CANTONS: &[(&str, &str)] = &[
+    ("Aargau", N_("Aargau")),
+    ("Appenzell Ausserrhoden", N_("Appenzell Ausserrhoden")),
+    ("Appenzell Innerrhoden", N_("Appenzell Innerrhoden")),
+    ("Basel-Landschaft", N_("Basel-Landschaft")),
+    ("Basel-Stadt", N_("Basel-Stadt")),
+    ("Bern", N_("Bern")),
+    ("Fribourg", N_("Fribourg")),
+    ("Geneva", N_("Geneva")),
+    ("Glarus", N_("Glarus")),
+    ("Graubünden", N_("Graubünden")),
+    ("Jura", N_("Jura")),
+    ("Lucerne", N_("Lucerne")),
+    ("Neuchâtel", N_("Neuchâtel")),
+    ("Nidwalden", N_("Nidwalden")),
+    ("Obwalden", N_("Obwalden")),
+    ("Schaffhausen", N_("Schaffhausen")),
+    ("Schwyz", N_("Schwyz")),
+    ("Solothurn", N_("Solothurn")),
+    ("St. Gallen", N_("St. Gallen")),
+    ("Thurgau", N_("Thurgau")),
+    ("Ticino", N_("Ticino")),
+    ("Uri", N_("Uri")),
+    ("Valais", N_("Valais")),
+    ("Vaud", N_("Vaud")),
+    ("Zug", N_("Zug")),
+    ("Zurich", N_("Zurich")),
+];
+
 pub const SPAIN_COMMUNITIES: &[(&str, &str)] = &[
     ("Andalucía", N_("Andalusia")),
     ("Aragón", N_("Aragon")),
